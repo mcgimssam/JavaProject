@@ -11,8 +11,6 @@
 #4. Work-Flow
 
 #6. 프로젝트 시연
-<video muted>
-  <source src="https://mcssam.cafe24.com/mov/java_movie.mp4" type="video/mp4" />
-</video>
+![java_project](https://user-images.githubusercontent.com/67052157/209092246-4943fc48-0655-4300-bd51-51ad03faa128.gif)
 
 #5. 프로젝트 설명문서
